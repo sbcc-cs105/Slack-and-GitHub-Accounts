@@ -1,4 +1,4 @@
-##Exercise: Slack and GitHub Accounts (5 Points)
+## Exercise: Slack and GitHub Accounts (5 Points)
 
 The name of this exercise is **Slack and GitHub Accounts**.
 
@@ -48,7 +48,7 @@ Follow the directions in the invitation and you will be a member of the organiza
 
 To verify that you have joined the organization properly, go to the next assignent in GitHub by clicking [this link](https://github.com/sbcc-cs105-spring2016/EX01-HelloWorld). If you _do not_ get a **404 Not Found** error, then you have joined the organization properly and are done with this assignment.
 
-###How to turn in this exercise
+### How to turn in this exercise
 
 There are two things you must do in order to complete this exercise:
 
