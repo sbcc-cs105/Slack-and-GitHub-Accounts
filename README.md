@@ -12,7 +12,7 @@ The **first thing you should do** is create a Slack account by accepting the inv
 
 ![Slack invitation](https://www.dropbox.com/s/mcj5b378qo6mzh3/slack-invitation.png?dl=1)
 
-If you're trying to add this class and did not receive an invitation click [here](https://sbcc-cs140-f2018.slack.com/signup) to sign up. Remember to use your pipeline email account.
+If you're trying to add this class and did not receive an invitation click [here](https://sbcc-cs140-fall2018.slack.com/signup) to sign up. Remember to use your pipeline email account.
 
 Click **Join team** and fill in the username and password on the invitation page. Click **Next** and that's it! You've created your Slack account and join the sbcc-cs140-fall2018 team. 
 
