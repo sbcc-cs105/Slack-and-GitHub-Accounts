@@ -46,7 +46,7 @@ Now you need to join the sbcc-cs140-fall2018 organization. I have to send you an
 
 Follow the directions in the invitation and you will be a member of the organization on the students team. 
 
-To verify that you have joined the organization properly, go to the next assignent in GitHub by clicking [this link](https://github.com/sbcc-cs140-fall2018/EX01-HelloWorld). If you _do not_ get a **404 Not Found** error, then you have joined the organization properly and are done with this assignment.
+To verify that you have joined the organization properly, go to the next assignent in GitHub by clicking [this link](https://github.com/sbcc-cs140-fall2018/cs140-ex01-helloworld). If you _do not_ get a **404 Not Found** error, then you have joined the organization properly and are done with this assignment.
 
 ### How to turn in this exercise
 
