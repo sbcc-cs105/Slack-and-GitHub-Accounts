@@ -10,7 +10,7 @@ If you already have accounts for Slack and GitHub using your Pipeline email addr
 
 The **first thing you should do** is create a Slack account by accepting the invitation I sent to each of you at the beginning of the term. The invitation looks like this:
 
-![Slack invitation](https://www.dropbox.com/s/mcj5b378qo6mzh3/slack-invitation.png?dl=1)
+![Slack invitation](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki/images/ex00/slack-invitation.png)
 
 If you're trying to add this class and did not receive an invitation click [here](https://sbcc-cs140-fall2018.slack.com/signup) to sign up. Remember to use your pipeline email account.
 
@@ -28,7 +28,7 @@ The **second thing you should do** is create a GitHum account. If you use your p
 
 To create a new account go to the [GitHub](http://www.github.com) website and you should see:
 
-![GitHub website](https://www.dropbox.com/s/de9g7lckacc6gs2/github-signup.png?dl=1)
+![GitHub website](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki/images/ex00/github-signup.png)
 
 Now do the following:
 
