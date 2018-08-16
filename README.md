@@ -8,7 +8,7 @@ If you already have accounts for Slack and GitHub using your Pipeline email addr
 
 **Please be sure to use your pipeline email account for these services**
 
-The **first thing you should do** is create a Slack account by accepting the invitation I sent to each of you at the beginning of the term. The invitation looks like this:
+The **first thing you should do** is create a Slack account by accepting the invitation I sent to each of you at the beginning of the term. The invitation looks like this (except with information about CS140 for Fall 2018):
 
 ![Slack invitation](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki/images/ex00/slack-invitation.png)
 
