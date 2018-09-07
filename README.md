@@ -24,7 +24,7 @@ Feel free throughout the term to create channels to communicate with your classm
 
 Once you've explored a little bit, move on to the next step and create a GitHub account and join the sbcc-cs140-f2018 organization.
 
-The **second thing you should do** is create a GitHum account. If you use your pipeline email account you do not need an invitation. If, however, you want to use an existing GitHub account that is not associated with your Pipeline account, send me a message on slack in [#github-questions](https://sbcc-cs140-fall2018.slack.com/messages/github-questions) with your GitHub username or email address. I will then send you an invitation as soon as possible.
+The **second thing you should do** is create a GitHub account. If you use your pipeline email account you do not need an invitation. If, however, you want to use an existing GitHub account that is not associated with your Pipeline account, send me a message on slack in [#github-questions](https://sbcc-cs140-fall2018.slack.com/messages/github-questions) with your GitHub username or email address. I will then send you an invitation as soon as possible.
 
 To create a new account go to the [GitHub](http://www.github.com) website and you should see:
 
